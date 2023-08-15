@@ -1,0 +1,23 @@
+{
+  "name": "01",
+  "version": "1.0.0",
+  "description": "Node JS Assignment Question no 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pwskills/lab-nodejs.git"
+  },
+  "keywords": [
+    "Node",
+    "js"
+  ],
+  "author": "Sarvesh Deshmukh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pwskills/lab-nodejs/issues"
+  },
+  "homepage": "https://github.com/pwskills/lab-nodejs#readme"
+}
